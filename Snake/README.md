@@ -1,5 +1,5 @@
 # Snake Game
-![image](https://github.com/user-attachments/assets/6ccd00a1-a1dd-4665-b5d6-d868616bf8ad)
+![SnakeLogo](https://github.com/user-attachments/assets/17caade7-1983-4f42-b143-ef15559b7478)
 
 ## Objective
 
@@ -8,4 +8,6 @@ The goal of the Snake game is to guide the snake to eat as much food as possible
 ## Gameplay
 
 [Gameplay](https://github.com/user-attachments/assets/d65b299a-07ee-43af-948e-21d78fcdc570)
+
+
 
