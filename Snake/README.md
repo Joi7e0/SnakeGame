@@ -7,7 +7,7 @@ The goal of the Snake game is to guide the snake to eat as much food as possible
 
 ## Gameplay
 
-[Gameplay]([https://github.com/user-attachments/assets/d65b299a-07ee-43af-948e-21d78fcdc570](https://github.com/user-attachments/assets/c140aae9-86ba-455f-9420-eaf2635a5282))
+![Gameplay]([https://github.com/user-attachments/assets/d65b299a-07ee-43af-948e-21d78fcdc570](https://github.com/user-attachments/assets/c140aae9-86ba-455f-9420-eaf2635a5282))
 
 
 
